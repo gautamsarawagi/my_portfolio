@@ -1,0 +1,38 @@
+.subHead{
+    font-size: 55px;
+    line-height: 66px;
+    margin-top: 3vh;
+
+}
+
+.works{
+    margin-top: 5vh;
+}
+
+.image_roles{
+    margin-top: 5vh;   
+}
+
+.icons{
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.icons:hover{
+    cursor: pointer;
+    background: #14c0a1 ;
+}
+
+.logo_positioning{
+    padding: 0 3vw;
+}
+
+.img_section:hover{
+    transform:scale(1.25);
+}
+
+@media not all and (pointer: coarse) {
+    img_section:hover {
+        transform:scale(1.25);
+    }
+  }

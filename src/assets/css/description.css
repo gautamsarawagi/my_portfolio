@@ -1,0 +1,45 @@
+.description_design{
+    align-items: center;
+}
+
+.saying_hello{
+    font-size: 22px;
+    line-height: 22px;
+    margin-bottom: 2vh;
+}
+
+.basic_short_info{
+    font-size: 80px;
+    line-height: 96px;
+}
+
+.basic_short_info_second{
+    font-size: 22px;
+    line-height: 33px;
+    margin-bottom: 8vh;
+}
+
+.social_accounts{
+    display: flex;
+    font-size: 15px;
+    line-height: 23px;
+}
+
+a {
+    color: #212529 !important;
+    text-decoration: none !important;
+}
+
+a:hover{
+    color: #212529 !important;
+
+}
+.specific_social_accounts{
+    cursor: pointer;
+}
+
+.specific_social_accounts:hover{
+    text-decoration: underline;
+    text-decoration-color: #14c0a1;
+    text-decoration-thickness: 3px;
+}

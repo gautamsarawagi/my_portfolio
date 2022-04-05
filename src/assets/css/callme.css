@@ -1,0 +1,17 @@
+.button_position{
+    display: flex;
+    justify-content: end;
+}
+
+.button_styles{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.button_styles:hover{
+    background-color: #14c0a1;
+    color: white;
+    border: 1px solid #14c0a1 ;
+    transform: scale(1.25);
+}
